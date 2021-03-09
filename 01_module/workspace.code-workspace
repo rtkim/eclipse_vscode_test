@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "eclipse_vscode_test",
+			"path": "..\\..\\test\\eclipse_vscode_test\\eclipse_vscode_test"
+		}
+	],
+	"settings": {}
+}
