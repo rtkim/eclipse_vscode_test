@@ -11,13 +11,13 @@
 </head>
 <body>
 	<div class="contents">
-		<h1>TODO LIST</h1>
+		<h1>TODO LIST!!!</h1>
 		<div class="insert-form row">
 			<div class="col-lg-12">
 				<div class="input-group">
-					<input type="text" id="value" class="form-control" placeholder="ÇÒÀÏÀ» ÀÔ·ÂÇØ ÁÖ¼¼¿ä." autofocus>
+					<input type="text" id="value" class="form-control" placeholder="ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½ï¿½ ï¿½Ö¼ï¿½ï¿½ï¿½." autofocus>
 					<span class="input-group-btn">
-						<button id="btn" class="btn btn-primary" type="submit">ÀúÀå</button>
+						<button id="btn" class="btn btn-primary" type="submit">ï¿½ï¿½ï¿½ï¿½</button>
 					</span>
 				</div><!-- /input-group -->
 			</div><!-- /.col-lg-12 -->
@@ -30,9 +30,9 @@
 			</colgroup>
 			<thead>
 				<tr>
-					<th>³»¿ë</th>
-					<th>½Ã°£</th>
-					<th>¼³Á¤</th>
+					<th>ï¿½ï¿½ï¿½ï¿½</th>
+					<th>ï¿½Ã°ï¿½</th>
+					<th>ï¿½ï¿½ï¿½ï¿½</th>
 				</tr>
 			</thead>
 			<tbody id="list">
