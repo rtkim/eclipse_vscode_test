@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>TODO LIST</title>
+	<title>TODO LIST!!!</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
 	<link rel="stylesheet" href="/resources/css/app.css" />
 	<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
